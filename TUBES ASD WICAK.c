@@ -1,8 +1,8 @@
 /* Nama kelompok
 ================================
-1. Arif wicaksono 			14116033
+1. Arif wicaksono 		14116033
 2. Nayaka pitra radity 		14116030
-3. Isnan nughraga Marcheriz 14116018
+3. Isnan nughraga Marcheriz 	14116018
 ================================
 */
 
